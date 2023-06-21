@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Imaginnovate_Screening_Test.props" />
+</Project>
